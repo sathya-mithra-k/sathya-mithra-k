@@ -4,7 +4,7 @@ Computer Science Student @ RIT
 
 - 🔭 Here's my [Resume](https://drive.google.com/file/d/1VbOg8GwyL_P_mHuGSdUDW8kVgTAeMQR_/view?usp=sharing)                                              
 - 🌱 I’m currently exploring the field of AI. Also Instructor at data science centre of RIT
-- ❤️ Loves writing blogs
+- ❤️ Love writing blogs
 - ⚡ Fun fact: I track my Spotify activity on Power BI.
 
 ### Familiar Technical Stacks
