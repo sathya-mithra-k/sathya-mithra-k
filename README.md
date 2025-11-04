@@ -16,3 +16,13 @@ Computer Science Student @ RIT
 ![sathya-mithra-k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya-mithra-k&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 [![sathya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathya-mithra-k&bg_color=000000&color=4c9e8a&line=5ed999&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sathya-mithra-k&color=brightgreen)
+
+
+---
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sathya-mithra-k-88b1b5249/)
+[![Email](https://img.shields.io/badge/Email-contact%40gmail.com-red)](mailto:sathyamithra439@gmail.com)  
+
